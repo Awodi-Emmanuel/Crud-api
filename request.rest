@@ -1,0 +1,7 @@
+POST http://localhost:4000/posts
+
+{
+    "tittle": "webdeveloper",
+    "description": "backend",
+    "price": "200000"
+}
